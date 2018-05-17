@@ -46,7 +46,7 @@ public class JunitTest {
 
         Junit ciftSayiMi = new Junit();
         boolean result = ciftSayiMi.ciftMiDogrula(8);
-        Assert.assertTrue("çiftdeğil",false);
+        Assert.assertTrue("çiftdeğil",result);
     }
 
 
